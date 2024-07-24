@@ -15,9 +15,7 @@
 
 ## Overview
 
-This a react application that focuses on using the technology to make an app that you can use to get an adorable pet that will kepp you company at home.It uses the best practices for react1 18.This practicees include:
-        - Use of Use Query for caching
-        - Using the react router dom
+This a react application that focuses on using the technology to make an app that you can use to get an adorable pet that will keep you company at home. It uses the best practices for React 18.This practices include:
 
 ### Screenshot
 
@@ -26,10 +24,9 @@ This a react application that focuses on using the technology to make an app tha
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Adopt Me](https://pet-adoption-app-theta.vercel.app/)
 
-## My process
+## My Process
 
 ### Built with
 
@@ -43,7 +40,7 @@ This a react application that focuses on using the technology to make an app tha
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learnt how to use use Query which is a React library for caching.
 
 To see how you can add code snippets, see below:
 
@@ -60,12 +57,9 @@ export default async function fetchSearch({ queryKey }) {
 
 I would still like to continue focusing on learning about cache with react and also to learn how just how the whole framework operates too.So I will use it in the coming projects in order to get a better understanding of it.
 
-
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+- [Tanstack Query](https://tanstack.com/query/latest) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
 ## Author
 
