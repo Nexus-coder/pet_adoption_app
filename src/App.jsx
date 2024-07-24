@@ -34,7 +34,6 @@ const App = () => {
                             Adopt Me!
                         </Link>
                     </header>
-
                     <Routes>
                         <Route path="/details/:id" element={<Details />}></Route>
                         <Route path="/" element={<SearchParams />}></Route>
