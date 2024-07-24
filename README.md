@@ -1,5 +1,32 @@
 # Adopt Me - An adoption site in React
 
+## How to Build/Run
+
+First, clone the project using :
+
+```bash
+git clone git@github.com:Nexus-coder/pet_adoption_app.git
+```
+
+Second .run the command :
+
+```bash
+npm install
+# or
+yarn
+
+```
+
+Third, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -15,7 +42,8 @@
 
 ## Overview
 
-This a react application that focuses on using the technology to make an app that you can use to get an adorable pet that will keep you company at home. It uses the best practices for React 18.This practices include:
+This a react application that focuses on using the technology to make an app that you can use to get an adorable pet that will keep you company at home. It uses the best practices for React 18. This practices include:
+
 
 ### Screenshot
 
