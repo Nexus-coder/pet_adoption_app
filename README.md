@@ -59,7 +59,7 @@ I would still like to continue focusing on learning about cache with react and a
 
 ### Useful resources
 
-- [Tanstack Query](https://tanstack.com/query/latest) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Tanstack Query](https://tanstack.com/query/latest) - This helped me for searching querying and even caching of my requests that come from the api. I really liked this pattern and will use it going forward.
 
 ## Author
 
